@@ -1,3 +1,0 @@
-﻿query,tuid,source_segment,target_segment,score,lev_ratio,token_sort_ratio,match_type
-A charging network with limited interoperability can pose challenges.,7,A charging network with limited interoperability can pose challenges.,Зарядная сеть с ограниченной интероперабельностью может создавать проблемы.,100.0,100.0,100.0,ICE (101%)
-An AC charging station directly provides AC to the vehicle.,10,An AC charging station directly provides AC to the EV.,Станция зарядки переменным током подает переменный ток напрямую в ЭМ.,89.66,89.66,81.03,Fuzzy
